@@ -1,0 +1,22 @@
+{
+  "name": "bulk-load",
+  "version": "0.0.0",
+  "description": "Loads and or globalizes all files in a given directory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jamplify/bulk-load.git"
+  },
+  "keywords": [
+    "load",
+    "node.js",
+    "require",
+    "path"
+  ],
+  "author": "Matt Roman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamplify/bulk-load/issues"
+  },
+  "homepage": "https://github.com/jamplify/bulk-load"
+}
