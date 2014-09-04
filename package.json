@@ -1,6 +1,6 @@
 {
   "name": "bulk-load",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Loads and or globalizes all files in a given directory",
   "main": "index.js",
   "repository": {

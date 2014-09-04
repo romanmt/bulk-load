@@ -24,6 +24,6 @@ the directory contains a user.js file which exports a create
 function, the following is possible.
 
 ``` javascript
-bulk.load(__dirname + '/lib/models')
+bulk.globalize(__dirname + '/lib/models')
 User.create();
 ```
